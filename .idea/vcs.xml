@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/components/lib_rendering/api/opengl3/dependencies/glad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/components/lib_rendering/api/vulkan/dependencies/VulkanMemoryAllocator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/components/lib_window_creation/dependencies/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/dependencies/cxxopts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/dependencies/fmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/dependencies/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/custom_lib/unit_test/dependencies/Catch2" vcs="Git" />
+  </component>
+</project>
