@@ -1,0 +1,3 @@
+[submodule "deps/custom_lib"]
+	path = deps/custom_lib
+	url = git@github.com:ccamel55/custom_lib.git
